@@ -1,0 +1,1217 @@
+{
+ "ex": [
+  {
+   "id": "e1",
+   "name": "Bench press",
+   "type": "w",
+   "eq": "Dumbbell, Barbell",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/d4c2fb539beef6f9bc6b4f3ade6041ad.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 56.91355231084701,
+   "my": 50
+  },
+  {
+   "id": "e2",
+   "name": "Pull-Up",
+   "type": "w",
+   "eq": "Bar",
+   "mu": [
+    "back",
+    "biceps",
+    "forearm"
+   ],
+   "media": "media/15ecdbccd04f0df9ce9c0c48deac6d51.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e3",
+   "name": "Incline Bench Press",
+   "type": "w",
+   "eq": "Dumbbell, Barbell",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/38f67ca674916ff5ae595c155c64f311.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 0,
+   "my": 50
+  },
+  {
+   "id": "e4",
+   "name": "Chin-Up",
+   "type": "w",
+   "eq": "Bar",
+   "mu": [
+    "back",
+    "biceps",
+    "forearm"
+   ],
+   "media": "media/d05b58ccb2d5406f2301320b68a0b31c.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e5",
+   "name": "Barbell Back Squat",
+   "type": "w",
+   "eq": "Barbell",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/7fe74e255466492a17bda76a1787b70a.jpg",
+   "ps": 1,
+   "pt": 600,
+   "m": "wr",
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e6",
+   "name": "Push-ups",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/d52566367eeb0b6f2daf198a3ff24fd5.jpg",
+   "ps": 1,
+   "pt": 300,
+   "m": "r",
+   "pr": 15,
+   "pk": 0,
+   "mx": 28.295325054765044,
+   "my": 50
+  },
+  {
+   "id": "ek3p6zuc",
+   "name": "Dumbbell Fly",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/486c1875a518b96994711b41426531e5.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 55.21197325557931,
+   "my": 50
+  },
+  {
+   "id": "e3k2jxwq",
+   "name": "Shoulder Press",
+   "type": "w",
+   "eq": "Dumbbell, Barbell",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/2b9fce27694fac724fb11dc355e93207.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "pt": 2,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e4yk7i5i",
+   "name": "Abs Crunches",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/eca8ea918bb6494bfeacb101e7af2136.gif",
+   "ps": 1,
+   "pt": 600,
+   "m": "r",
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 35.18521834009162
+  },
+  {
+   "id": "eljli1ng",
+   "name": "Leg Raises",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/e2b69cd161ae3509b3772872cdbe2666.jpg",
+   "ps": 1,
+   "pt": 600,
+   "m": "r",
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "exl8dc3j",
+   "name": "Plank",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/84d0ce3023a634088424cff8576db44d.jpg",
+   "ps": 1,
+   "pt": 45,
+   "m": "t",
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 47.036946011748455
+  },
+  {
+   "id": "ejjie9fz",
+   "name": "Russian Twist with Plate",
+   "type": "w",
+   "eq": "Plate, Dumbbell",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/bee56f7012648a7df8742f6280280ed1.jpg",
+   "ps": 1,
+   "pt": 600,
+   "m": "r",
+   "pr": 30,
+   "pk": 0,
+   "mx": 50,
+   "my": 50,
+   "man": 1
+  },
+  {
+   "id": "ek6p1swz",
+   "name": "Dumbbell Lateral Raise",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/c201493889ac6a88c0223acac94b355a.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ef528nyu",
+   "name": "Dumbbell Overhead Extension",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/b71d41a1e2eff60c72e01eb2c955f938.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ewlxiqwl",
+   "name": "Barbell Bent-Over Row",
+   "type": "w",
+   "eq": "Barbell , Dumbbell",
+   "mu": [
+    "back",
+    "biceps",
+    "forearm"
+   ],
+   "media": "media/92eab31432abc70f468e372818ae401a.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "evt8tp54",
+   "name": "Dumbbell Pullover",
+   "type": "w",
+   "eq": "Barbell , Dumbbell",
+   "mu": [
+    "back",
+    "biceps",
+    "forearm"
+   ],
+   "media": "media/5d1650e72a44ee68ef59cf6887c240be.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eavln8nm",
+   "name": "Dumbbell Bent-Over Reverse Fly",
+   "type": "w",
+   "eq": "ม้านั่ง, Dumbbell",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/fadbd123bfb159d88fdbe2e66ea6b3a4.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eh1cz405",
+   "name": "Barbell Curl",
+   "type": "w",
+   "eq": "Barbell , Dumbbell",
+   "mu": [
+    "biceps",
+    "forearm"
+   ],
+   "media": "media/b24fdc1ab38534b68b3714e07f58eab9.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e22ql1g4",
+   "name": "Bulgarian Split Squats",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/a8e7c9f468fa4daf6c3b30e0fcec5c36.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e7lsyp2w",
+   "name": "Barbell Hip Thrust",
+   "type": "w",
+   "eq": "Barbell",
+   "mu": [
+    "glutes",
+    "hams"
+   ],
+   "media": "media/39205a2fded50dbdeb91b5524f13cecd.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eqiwmduk",
+   "name": "Barbell Romanian Deadlift (RDL)",
+   "type": "w",
+   "eq": "Barbell, Dumbbell",
+   "mu": [
+    "back",
+    "hams",
+    "glutes"
+   ],
+   "media": "media/b89ca3ebc79db33dc77ce8208fa1e505.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eoj8lqpa",
+   "name": "Dumbbell Calf Raise",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "calves"
+   ],
+   "media": "media/7f2c6abc72efee915879bcfd765c6e20.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 30,
+   "pk": 0,
+   "mx": 50,
+   "my": 93.57289140675606
+  },
+  {
+   "id": "epj2obt1",
+   "name": "Plank Twist",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/3c2fcb21274e0ef8157910c3ca49e108.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 30,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e2qk30w6",
+   "name": "Side Plank Hip Dip",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder",
+    "abs"
+   ],
+   "media": "media/fdd0f3453a36d70968b8d71d323cc74a.jpg",
+   "m": "r",
+   "ps": 2,
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "etbp029r",
+   "name": "Mountain Climbers",
+   "type": "c",
+   "eq": "",
+   "mu": [],
+   "media": "media/d43c43da233b319ab76df5f21a65dbbd.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "enxxn86u",
+   "name": "Squats Jumps",
+   "type": "c",
+   "eq": "",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/2e749b0c5db0d49517e36d596dc95b3e.jpg",
+   "ps": 1,
+   "pt": 2520,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eglmt6kj",
+   "name": "Bulgarian Split Squat (แบบกระโดด)",
+   "type": "c",
+   "eq": "",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/a71678f4616606f4a8d27a45076ad4cb.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ecsb426x",
+   "name": "Flutter Kicks",
+   "type": "c",
+   "eq": "",
+   "mu": [],
+   "media": "media/679ce50a7d3602e85f8ff2c044a22ad5.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ewk02mld",
+   "name": "Heel Touches",
+   "type": "c",
+   "eq": "",
+   "mu": [],
+   "media": "media/70ee2718e0e8bc31eb1ab02c82733e50.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "erzq7cdc",
+   "name": "Burpee",
+   "type": "c",
+   "eq": "",
+   "mu": [
+    "quads",
+    "calves",
+    "glutes"
+   ],
+   "media": "media/edc41fedf46693492c318e15279302a9.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 0,
+   "my": 50
+  },
+  {
+   "id": "e85o0jzf",
+   "name": "Plank Shoulder Taps",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "shoulder",
+    "triceps",
+    "abs"
+   ],
+   "media": "media/18d900419413c18a387a8f0dd9cc850e.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eb5mboca",
+   "name": "Plank Knee to Elbow",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/5176b5ebb3f06465d093231ad7d3b934.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 20,
+   "pk": 0,
+   "mx": 88.14812874506565,
+   "my": 50
+  },
+  {
+   "id": "eo9tmw41",
+   "name": "Plank Up-Downs",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/ac5546f84020deb06c3ad6dfae13681d.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 20,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eblwcbz0",
+   "name": "Mountain Climbers",
+   "type": "w",
+   "eq": "",
+   "mu": [],
+   "media": "media/eab8ba1ecd13c19650014c95074869cd.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 30,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ephban8r",
+   "name": "Run",
+   "type": "c",
+   "eq": "ลู่วิ่ง",
+   "mu": [
+    "quads",
+    "calves",
+    "glutes"
+   ],
+   "media": "media/a3e9dded4c148a892553717fac6c84fd.jpg",
+   "ps": 1,
+   "pt": 2700,
+   "mx": 50,
+   "my": 76.66667209201499
+  },
+  {
+   "id": "ef5a6ff4",
+   "name": "Neck & Shoulder Roll",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/125a735b79ae573dbb77eb1beec4f238.jpg",
+   "ps": 1,
+   "pt": 480,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e7gg0dpq",
+   "name": "Cat-Cow",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "back",
+    "abs",
+    "hams",
+    "shoulder"
+   ],
+   "media": "media/9fb9b74e125a85900d7d8e24465ce331.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e5vvecc0",
+   "name": "Sun Salutation A",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/a75b65b23768c68284e401ad254344b8.jpg",
+   "ps": 3,
+   "pt": 180,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e0phmg6y",
+   "name": "low Lunge",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/d09206827b6ec8098a57fd2668844cac.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ep1ylof8",
+   "name": "Warrior II",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "back",
+    "abs",
+    "hams",
+    "shoulder"
+   ],
+   "media": "media/9d4ff6f89a31c1dadc1a375501158b64.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 64.9104184029439,
+   "my": 50
+  },
+  {
+   "id": "elbnetm6",
+   "name": "Tree Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "back",
+    "abs",
+    "hams",
+    "shoulder"
+   ],
+   "media": "media/721345a13b8818b31f5d3c3472abf432.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e6dn43ew",
+   "name": "Pigeon Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/dd308b5473dcc4ff783f04dbed09fdcd.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ez0jgiqy",
+   "name": "Butterfle Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/6f4c3b7d6f468d4891d31ea6aedbb2f1.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "emp2x9tq",
+   "name": "Happy Baby Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/e4005d6f1d2fde34e7acb4dbd2f8b5be.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ee1znnav",
+   "name": "Savasana",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/c6ce6ea8fa6b4dba500856c94e600c1d.jpg",
+   "ps": 1,
+   "pt": 180,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e3fqjhj6",
+   "name": "Child's Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/78b5eb406f773e19c51d905930328abd.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e6yyyxvr",
+   "name": "Thread The Needle",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/d20c5f9a65d26c60187cb21678373e8b.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "exjphi2f",
+   "name": "Sun Salutation B",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/a5bc3afa560326d7fadde8a2161f6db6.jpg",
+   "ps": 3,
+   "pt": 180,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e5i3c2m9",
+   "name": "Cobra Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "back",
+    "abs",
+    "hams",
+    "shoulder"
+   ],
+   "media": "media/af53fb2eb80bab785a620b451979b4a4.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ezk4xh4k",
+   "name": "Bird-Dog Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/bdc84cf6fe8a1f16b2efb8dc84c30720.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e9otf66x",
+   "name": "Downward-Facing Dog",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "back",
+    "abs",
+    "hams",
+    "shoulder"
+   ],
+   "media": "media/6c72916e42abc950b1eeb24566efec47.jpg",
+   "ps": 3,
+   "pt": 60,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "eh1gbhmn",
+   "name": "Bridge Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [
+    "glutes",
+    "hams"
+   ],
+   "media": "media/1abd727581b3c6ebe99d14065bbbf301.jpg",
+   "ps": 3,
+   "pt": 60,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ex1s4ap5",
+   "name": "Supine Spinal Twist",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/a1304d653592f2c7e6567ff206e473e2.jpg",
+   "ps": 2,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "er8htq1v",
+   "name": "Child's Pose",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/ba4e531e8901d99a7de581b811abebed.jpg",
+   "ps": 1,
+   "pt": 120,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ejyyd6u2",
+   "name": "Savasana",
+   "type": "y",
+   "eq": "Yoga Matt",
+   "mu": [],
+   "media": "media/165d0da00c2b4bc2006f3e05a97541bf.jpg",
+   "ps": 1,
+   "pt": 180,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "efkaws1a",
+   "name": "Dumbbell Bench Press",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/08de7e1edacd4a46066be47b6273af79.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "ebnqgwyj",
+   "name": "Dumbbell Shoulder Press",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/2520d7644dd8c840123ee5ec92b69ad4.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 43.40499956943975,
+   "my": 50
+  },
+  {
+   "id": "ejhk77d0",
+   "name": "Dumbbell Lateral Raise",
+   "type": "w",
+   "eq": "Dumbbell",
+   "mu": [
+    "shoulder",
+    "triceps"
+   ],
+   "media": "media/a718cfd9499d6e6817623c9503505741.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e3mcl2hj",
+   "name": "Push-up",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/378316a9c199114a5d2ff41062b1d345.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 15,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  },
+  {
+   "id": "e079pgxk",
+   "name": "Plank",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "abs"
+   ],
+   "media": "media/f83170618a18aacf630517884b620162.jpg",
+   "m": "t",
+   "ps": 2,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50,
+   "pt": 45
+  },
+  {
+   "id": "e8kj54zk",
+   "name": "Tibialis Raise",
+   "type": "w",
+   "eq": "",
+   "mu": [],
+   "media": "media/cde4371c4a1be603f5b0224046b3876c.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 8.156659454271264,
+   "my": 50
+  },
+  {
+   "id": "eievy0qw",
+   "name": "Calf Raise",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "calves"
+   ],
+   "media": "media/6eea5aa8dc1d73c5b6f9bc9100448cd2.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 100
+  },
+  {
+   "id": "eifnob1i",
+   "name": "Bent Knee Calf Raise",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "calves"
+   ],
+   "media": "media/cc9297a7a7b82afeb4e4cb6c713ecf85.jpg",
+   "m": "wr",
+   "ps": 3,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 73.70378086421323
+  },
+  {
+   "id": "esq5lztl",
+   "name": "Resistance Band Eversion",
+   "type": "w",
+   "eq": "",
+   "mu": [],
+   "media": "media/c5a96f4139aa19d9d12dcc65712f1d9f.jpg",
+   "m": "wr",
+   "ps": 4,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 100
+  },
+  {
+   "id": "ebjwd8t7",
+   "name": "Single Leg Balance",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "quads",
+    "glutes",
+    "hams"
+   ],
+   "media": "media/36145b4f68a654fce09b329fd3937627.jpg",
+   "m": "t",
+   "ps": 2,
+   "pr": 12,
+   "pk": 0,
+   "mx": 50,
+   "my": 50,
+   "pt": 45
+  },
+  {
+   "id": "ec75v3dx",
+   "name": "Push-up",
+   "type": "w",
+   "eq": "",
+   "mu": [
+    "chest",
+    "triceps",
+    "shoulder"
+   ],
+   "media": "media/0b991a0d19b59e89dea491daf1d69140.jpg",
+   "m": "r",
+   "ps": 1,
+   "pr": 100,
+   "pk": 0,
+   "mx": 50,
+   "my": 50
+  }
+ ],
+ "sets": [
+  {
+   "id": "s1",
+   "name": "Push Day (อก / ไหล่ / หลังแขน)",
+   "type": "w",
+   "ex": [
+    "e1",
+    "e3",
+    "ek3p6zuc",
+    "e3k2jxwq",
+    "ek6p1swz",
+    "ef528nyu"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "s2",
+   "name": "Pull Day (หลัง / ไหล่หลัง / หน้าแขน)",
+   "type": "w",
+   "ex": [
+    "e2",
+    "e4",
+    "ewlxiqwl",
+    "evt8tp54",
+    "eavln8nm",
+    "eh1cz405"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "s3",
+   "name": "Leg Day (ขา / สะโพก / ก้น)",
+   "type": "w",
+   "ex": [
+    "e5",
+    "e22ql1g4",
+    "e7lsyp2w",
+    "eqiwmduk",
+    "eoj8lqpa"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "s4",
+   "name": "Bodyweight Circuit",
+   "type": "w",
+   "ex": [
+    "e6",
+    "e85o0jzf",
+    "eb5mboca",
+    "eo9tmw41",
+    "eblwcbz0"
+   ],
+   "rd": 3
+  },
+  {
+   "id": "sfbl0ark",
+   "name": "Active Rest / Core & Abs (หน้าท้องและแกนกลางลำตัว)",
+   "type": "w",
+   "ex": [
+    "e4yk7i5i",
+    "eljli1ng",
+    "exl8dc3j",
+    "ejjie9fz",
+    "epj2obt1",
+    "e2qk30w6"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "sj7hihdm",
+   "name": "Full Body HIIT & Cardio (เผาผลาญไขมันทั่วร่าง)",
+   "type": "c",
+   "ex": [
+    "etbp029r",
+    "enxxn86u",
+    "eglmt6kj",
+    "ecsb426x",
+    "ewk02mld",
+    "erzq7cdc"
+   ],
+   "rd": 3
+  },
+  {
+   "id": "s0thqo16",
+   "name": "Running",
+   "type": "c",
+   "ex": [
+    "ephban8r"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "sv9b9wow",
+   "name": "Gentle Flow & Hip Openers",
+   "type": "y",
+   "ex": [
+    "ef5a6ff4",
+    "e7gg0dpq",
+    "e5vvecc0",
+    "e0phmg6y",
+    "ep1ylof8",
+    "elbnetm6",
+    "e6dn43ew",
+    "ez0jgiqy",
+    "emp2x9tq",
+    "ee1znnav"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "sbw3nmo8",
+   "name": "Spine & Core Aligenment",
+   "type": "y",
+   "ex": [
+    "e3fqjhj6",
+    "e6yyyxvr",
+    "exjphi2f",
+    "e5i3c2m9",
+    "ezk4xh4k",
+    "e9otf66x",
+    "eh1gbhmn",
+    "ex1s4ap5",
+    "er8htq1v",
+    "ejyyd6u2"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "swncqrv1",
+   "name": "Push+Core",
+   "type": "w",
+   "ex": [
+    "efkaws1a",
+    "ebnqgwyj",
+    "ejhk77d0",
+    "e3mcl2hj",
+    "e079pgxk"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "sykyr8oo",
+   "name": "Recover For Run/Ankle",
+   "type": "w",
+   "ex": [
+    "e8kj54zk",
+    "eievy0qw",
+    "eifnob1i",
+    "esq5lztl",
+    "ebjwd8t7"
+   ],
+   "rd": 1
+  },
+  {
+   "id": "slntdulj",
+   "name": "Push-up",
+   "type": "w",
+   "ex": [
+    "ec75v3dx"
+   ],
+   "rd": 1
+  }
+ ]
+}
